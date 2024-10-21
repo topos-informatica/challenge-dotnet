@@ -42,8 +42,8 @@ A documentação completa da API está disponível no Swagger:
    - A API deve automatizar a denúncia de comentários inadequados utilizando o endpoint `/reports`.
  
 4. **Repositório no GitHub**:
-   - O código deverá ser disponibilizado em um repositório público no GitHub.
-   - Inclua um arquivo **README** com:
+   - O código deverá ser disponibilizado em um Pull Request neste repositório.
+   - Inclua um arquivo **README** ou edite este, com:
      - Instruções detalhadas de como executar o projeto.
      - Descrição da IA utilizada para moderação dos comentários.
      - Detalhes sobre como os endpoints foram utilizados e integrados.
