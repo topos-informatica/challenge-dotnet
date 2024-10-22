@@ -24,9 +24,19 @@ Você terá acesso aos seguintes endpoints:
    - **Descrição**: Envia uma denúncia para um comentário considerado inadequado.
    - **Método HTTP**: `POST`
    - **Endpoint**: `/reports`
+   - **Tipos de Reporte**: ` 
+           SPAM,
+           HATE,
+           FAKE,
+           BULLYING,
+           VIOLENCE,
+           SCAM,
+           SUICIDE,
+           DRUG e
+           OTHER
+     `
  
-A documentação completa da API está disponível no Swagger:  
-[Api - Challenge](https://go-tour-bahia.onrender.com/swagger)
+A documentação completa da API está disponível no Swagger: [Api - Challenge](https://go-tour-bahia.onrender.com/swagger)
  
 ## Requisitos Técnicos
  
