@@ -46,7 +46,7 @@ A documentação completa da API está disponível no Swagger: [Api - Challenge]
  
 2. **Moderação de Comentários com IA**:
    - Escolha e integre uma solução de **IA** que será responsável pela análise dos comentários.
-   - A IA deve identificar conteúdos impróprios e classificar comentários conforme apropriado ou inadequado.
+   - A IA deve identificar conteúdos impróprios e reportar os comentários justificando a denúncia.
  
 3. **Denúncia de Comentários**:
    - A API deve automatizar a denúncia de comentários inadequados utilizando o endpoint `/reports`.
