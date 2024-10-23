@@ -2,7 +2,7 @@
  
 ## Descrição do Desafio
  
-O objetivo deste desafio é desenvolver uma API em **.NET** que consuma endpoints de uma API pré-existente e utilize uma solução de **Inteligência Artificial (IA)** para moderar comentários sobre lugares (restaurantes, pontos turísticos, locais religiosos, etc.). O sistema deve identificar e filtrar comentários inadequados, utilizando a IA de sua escolha.
+O objetivo deste desafio é desenvolver uma API em **.NET** que consuma endpoints de uma API pré-existente e utilize uma solução de **Inteligência Artificial (IA)** para moderar comentários sobre lugares (restaurantes, pontos turísticos, locais religiosos, etc.). O sistema deve identificar comentários inadequados, utilizando a IA de sua escolha.
  
 Você terá **5 dias** para completar o desafio e deverá entregar o código em um repositório público no **GitHub**.
  
@@ -46,7 +46,7 @@ A documentação completa da API está disponível no Swagger: [Api - Challenge]
  
 2. **Moderação de Comentários com IA**:
    - Escolha e integre uma solução de **IA** que será responsável pela análise dos comentários.
-   - A IA deve identificar conteúdos impróprios e reportar os comentários justificando a denúncia.
+   - A IA deve identificar e reportar comentários impróprios, justificando a denúncia.
  
 3. **Denúncia de Comentários**:
    - A API deve automatizar a denúncia de comentários inadequados utilizando o endpoint `/reports`.
