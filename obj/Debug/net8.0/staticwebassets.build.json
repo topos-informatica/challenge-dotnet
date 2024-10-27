@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "wbknsdqeZ5Ejem0DIQuZM8Sv3B76DwiIdtbDqvFtOEM=",
+  "Source": "CommentModerationAPI",
+  "BasePath": "_content/CommentModerationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CommentModerationAPI\\wwwroot",
+      "Source": "CommentModerationAPI",
+      "ContentRoot": "C:\\Users\\Thiago Ribeiro\\Documents\\Codigos\\challenge-dotnet\\wwwroot\\",
+      "BasePath": "_content/CommentModerationAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
