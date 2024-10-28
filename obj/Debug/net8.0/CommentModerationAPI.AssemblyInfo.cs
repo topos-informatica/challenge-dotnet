@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommentModerationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa41f791a2085ada2b56688a5a6cf00a5c5af11b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+263f3ce8e6a464bde16ccba438c384089721627c")]
+>>>>>>> daa46b6 (My-Topos-Challenge)
 [assembly: System.Reflection.AssemblyProductAttribute("CommentModerationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommentModerationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

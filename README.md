@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto de Moderação de Comentários
 
 ## Objetivo
@@ -68,4 +67,5 @@ A resposta da API inclui informações detalhadas sobre o local e seus comentár
 
 ### Uso do Endpoint
 Para utilizar o endpoint /moderation/moderate, envie uma requisição GET à URL para recuperar os comentários moderados. A resposta incluirá o conteúdo do comentário, sua avaliação e o motivo da classificação atribuída.
+
 
