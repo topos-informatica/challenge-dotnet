@@ -2,9 +2,9 @@
  
 ## Descrição do Desafio
  
-O objetivo deste desafio é desenvolver uma API em **.NET** que consuma endpoints de uma API pré-existente e utilize uma solução de **Inteligência Artificial (IA)** para moderar comentários sobre lugares (restaurantes, pontos turísticos, locais religiosos, etc.). O sistema deve identificar comentários inadequados, utilizando a IA de sua escolha.
+O objetivo deste desafio é desenvolver uma API em **Laravel** que consuma endpoints de uma API pré-existente e utilize uma solução de **Inteligência Artificial (IA)** para moderar comentários sobre lugares (restaurantes, pontos turísticos, locais religiosos, etc.). O sistema deve identificar comentários inadequados, utilizando a IA de sua escolha.
  
-Você terá **5 dias** para completar o desafio e deverá entregar o código em um repositório público no **GitHub**.
+Você terá **3 dias** para completar o desafio e deverá entregar o código em um repositório público no **GitHub**.
  
 ## Endpoints Disponíveis
  
@@ -40,14 +40,18 @@ A documentação completa da API está disponível no Swagger: [Api - Challenge]
  
 ## Requisitos Técnicos
  
-1. **API em .NET**:
-   - Desenvolver a API utilizando o framework **.NET**.
+1. **API em LARAVEL**:
+   - Desenvolver a API utilizando o framework **LARAVEL**.
    - A API deve consumir corretamente os endpoints fornecidos.
  
 2. **Moderação de Comentários com IA**:
    - Escolha e integre uma solução de **IA** que será responsável pela análise dos comentários.
    - A IA deve identificar e reportar comentários impróprios, justificando a denúncia.
- 
+
+3. **Pagina dos Comentarios **:
+   - Desenvolver uma pagina para exibir apenas os comentários moderados
+   - A pagina deve ser construido em monolito no mesmo repositorio do projeot.
+     
 3. **Denúncia de Comentários**:
    - A API deve automatizar a denúncia de comentários inadequados utilizando o endpoint `/reports`.
  
