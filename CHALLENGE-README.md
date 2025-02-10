@@ -14,7 +14,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/Mileos/challenge-php-pedro.git
 
 2. **Instale as dependências do Laravel:**
     cd seu-projeto
