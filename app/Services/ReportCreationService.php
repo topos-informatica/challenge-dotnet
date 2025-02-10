@@ -10,7 +10,7 @@ class ReportCreationService implements ReportCreationInterface
 
     public function __construct()
     {
-        $this->api_url = env('EXTERNAL_API_URL');
+        $this->api_url = "https://go-tour-bahia.onrender.com/";
     }
 
     public function createReport(array $data): array

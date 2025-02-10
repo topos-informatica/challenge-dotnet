@@ -16,7 +16,7 @@ class ExternalApiService
     public function __construct(CommentModerationInterface $moderation_service, ReportCreationService $report_creation_service)
     {
         // url base da API
-        $this->api_url = env('EXTERNAL_API_URL');
+        $this->api_url = "https://go-tour-bahia.onrender.com/";
         
         // Inicializando as dependências
         $this->report_creation_service = $report_creation_service;

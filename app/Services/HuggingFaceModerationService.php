@@ -18,7 +18,7 @@ class HuggingFaceModerationService implements CommentModerationInterface
     public function __construct()
     {
         $this->api_url = 'https://api-inference.huggingface.co/models/unitary/toxic-bert';
-        $this->hugginface_api_key = env('HUGGING_FACE_API_KEY');
+        $this->hugginface_api_key = "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";
     }
 
     public function isCommentToxic($comment): bool
