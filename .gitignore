@@ -30,3 +30,6 @@ __pycache__/
 # Ignorar arquivos de sistema
 .DS_Store
 Thumbs.db
+
+bfg.jar
+challenge-php-pedro.git/
