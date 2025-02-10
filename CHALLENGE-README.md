@@ -22,7 +22,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 3. **Variaveis Adicionais do .env**
     EXTERNAL_API_URL="https://go-tour-bahia.onrender.com/"  
-    HUGGING_FACE_API_KEY="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"
+    HUGGING_FACE_API_KEY=""
 
 4. **Instale a dependência de tradução**
     composer require stichoza/google-translate-php
