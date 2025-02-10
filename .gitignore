@@ -1,0 +1,32 @@
+# Ignorar arquivos de ambiente e chaves secretas
+.env
+.env.local
+.env.*.local
+
+# Ignorar dependências do Composer
+/vendor/
+
+# Ignorar cache do Laravel
+/storage/
+bootstrap/cache/
+
+# Ignorar logs e debug
+*.log
+nohup.out
+
+# Ignorar diretórios específicos do Python (caso tenha usado algo em Python antes)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar configurações específicas do IDE/editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
